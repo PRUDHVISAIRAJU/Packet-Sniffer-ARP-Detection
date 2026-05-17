@@ -19,3 +19,14 @@ This project is a simple network security monitoring tool developed using Python
 
 ## Ethical Note
 This project was developed and tested in a safe local environment for educational and ethical learning purposes only.
+
+## Screenshots
+
+### Packet Monitoring
+![Packet Monitoring](screenshots/packet-running.png)
+
+### ARP Detection Logs
+![ARP Detection Logs](screenshots/arp-log.png)
+
+### ARP Spoof Detection
+![ARP Spoof Detection](screenshots/arp-alert%20.png)
